@@ -12,5 +12,9 @@ color:
     - '#6B1B10'
 layout_spectrum: 0.563715374097228
 name: M
+navigation:
+  - name: The Most Beautiful Mountains in the World
+    id: 47d9fb9f-36f5-40b0-8b9a-d6e411577737
+    type: content
 title: REVOEKAT ESREVER
 description: FOREVER
