@@ -6,9 +6,9 @@ color:
   saturation: 0.6589237982407212
   rhythmicContrast: 0.46573512349277735
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FDFDFD'
+    - '#080609'
+    - '#314249'
+    - '#A16F34'
+    - '#6B1B10'
 name: M
