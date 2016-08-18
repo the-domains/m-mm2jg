@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-18T05:10:11.722Z'
+datePublished: '2016-08-18T06:00:38.198Z'
 sourcePath: _posts/2016-04-15-the-most-beautiful-mountains-in-the-world.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.thrillist.com/travel/nation/the-most-beautiful-mountains-in-the-world/travel
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - mountain
   - volcano
@@ -25,7 +23,7 @@ author:
   - name: '@VeeTravels'
     url: 'https://www.twitter.com/@VeeTravels'
     avatar: {}
-dateModified: '2016-08-18T05:10:10.177Z'
+dateModified: '2016-08-18T06:00:37.563Z'
 title: The Most Beautiful Mountains in the World
 app_links:
   - namespace: twitter
@@ -44,6 +42,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-most-beautiful-mountains-in-the-world/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
